@@ -139,13 +139,3 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 📜 License
 MIT License
 
-
-Let me know if you'd like me to generate badges (e.g., build, license, Python version) for the top of the README!
-
-
-
-
-
-
-
-Ask ChatGPT
