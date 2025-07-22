@@ -1,0 +1,26 @@
+# OCR and Image Processing
+pytesseract
+Pillow
+pdf2image
+pypdf
+
+# Language Models and RAG
+sentence-transformers
+transformers
+langchain
+faiss-cpu
+numpy
+scikit-learn
+
+# OpenAI and LangChain integrations
+openai
+langchain-openai
+langchain-community
+
+# APIs and Frontend
+fastapi
+uvicorn
+streamlit
+
+# Environment Variables
+python-dotenv
